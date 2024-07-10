@@ -135,6 +135,141 @@
   justify-content: space-between;
   margin-bottom: 80px;
 }
-.inspire{}
+.inspire{
+  font-size: 32px;
+    font-weight: 800;
+    color: #0D1321;
+    text-align: center;
+    margin-top: 100px;
 
+}
+
+.life{
+  font-size: 16px;
+    font-weight: 400;
+    color: #0D1321;
+    margin-bottom: 80px;
+    width: 852px;
+    height: 52px;
+}
+
+.container-2{
+  width: 852px;
+  margin: auto;
+  text-align: center;
+}
+
+.video{
+  margin: auto;
+  width: 1076px;
+}
+
+.target{
+  display: flex;
+  width: 1140px;
+  justify-content: space-around;
+  text-align: left;
+  margin: auto;
+}
+.html{
+  background-color: #f0e7e5;
+  width: 364px;
+  height: 299px;
+  border-radius: 8px;
+}
+
+.css{
+  background-color: #cff7f7;
+  width: 364px;
+  height: 299px;
+  border-radius: 8px;
+}
+
+.js{
+  background-color: #e5fdc4;
+  width: 364px;
+  height: 299px;
+  border-radius: 8px;
+}
+
+.anc{
+  font-size: 16px;
+    font-weight: 600;
+    color: #0D1321;
+  
+}
+
+
+
+.font{
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.family{
+  font-size: 16px;
+  font-weight: 400;
+  color: #0D1321;
+}
+
+.heading{
+  color: #FFFFFF;
+}
+
+.suggest{
+  width: 548px;
+  height: 57px;
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  padding-left: 20px;
+  border: #FFFFFF;
+}
+.btn{
+  width: 120px;
+  height: 57px;
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  border-style: double;
+  border: #FFFFFF;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.container-3{
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 80px;
+    background-image: url(/assets/handshake.jpg);
+    width: 1140px;
+    height: 250px;
+    border-radius: 16px;
+    margin: auto;
+    margin-top: 80px;
+    grid-row: auto;
+    padding-top: 70px;
+}
+
+.icon{
+  display: flex;
+  justify-content: space-between;
+  /* width: 1140px; */
+  height: 36px;
+  margin: 70px 0px 0px 0px;
+  background-color: bisque;
+  padding-bottom: 40px;
+}
+
+.footer-text{
+  padding: 10px 85px;
+}
+.footer-icon{
+  padding: 20px 85px;
+}
+
+.family-1{
+  font-size: 16px;
+  font-weight: 400;
+  color: #FFFFFF;
+  margin: 0px 200px 30px 200px;
+}
 
