@@ -176,23 +176,26 @@
 }
 .html{
   background-color: #f0e7e5;
-  width: 364px;
+  width: 344px;
   height: 299px;
   border-radius: 8px;
+  padding: 10px;
 }
 
 .css{
   background-color: #cff7f7;
-  width: 364px;
+  width: 344px;
   height: 299px;
   border-radius: 8px;
+  padding: 10px;
 }
 
 .js{
   background-color: #e5fdc4;
-  width: 364px;
+  width: 344px;
   height: 299px;
   border-radius: 8px;
+  padding: 10px;
 }
 
 .anc{
@@ -266,10 +269,10 @@
 }
 
 .footer-text{
-  padding: 10px 85px;
+  padding: 10px 255px;
 }
 .footer-icon{
-  padding: 20px 85px;
+  padding: 20px 255px;
 }
 
 .family-1{
