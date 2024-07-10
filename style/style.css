@@ -18,6 +18,7 @@
       font-size: 20px;
       font-weight: 600;
       border-radius: 8px;
+      cursor: pointer;
   
   }
   
@@ -36,7 +37,7 @@
   .intro{
       padding: 0px 230px 0px 230px;
       font-size: 16px;
-      font-weight: 100;
+      font-weight: 300;
       margin-bottom: 40px;
   }
   
@@ -54,6 +55,7 @@
       background-color: #0D1321;
       color: #FFFFFF;
       margin-bottom: 40px;
+      cursor: pointer;
   }
 
   .container{
@@ -106,6 +108,7 @@
     padding: 14px 25px;
     text-decoration: none;
     border: 2px solid #0D1321;
+    cursor: pointer;
 }
 
 .do{
@@ -196,6 +199,7 @@
   font-size: 16px;
     font-weight: 600;
     color: #0D1321;
+    cursor: pointer;
   
 }
 
@@ -233,6 +237,7 @@
   border: #FFFFFF;
   font-size: 20px;
   font-weight: 600;
+  cursor: pointer;
 }
 
 .container-3{
@@ -257,6 +262,7 @@
   margin: 70px 0px 0px 0px;
   background-color: bisque;
   padding-bottom: 40px;
+  cursor: pointer;
 }
 
 .footer-text{
